@@ -46,7 +46,6 @@ commonmark==0.9.1
 compressed-rtf==1.0.6
 comtypes==1.1.7
 conda-build==2.1.5
-conda-package-handling==0.3.0
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography==37.0.2
